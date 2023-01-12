@@ -1,0 +1,26 @@
+.one{
+   border: 10px solid seagreen;
+   height: 500px;
+   width: 300px;
+   background-image:url("./images/mahesh.JPG");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+h2{
+    font-family: cursive;
+    font-size: 30px;
+}
+p{
+    font-family: cursive;
+    font-size: 30px;
+}
+p:hover{
+    color: goldenrod;
+}
+h2:hover
+{
+color: goldenrod;
+}
+.one:hover{
+border: 10px solid blueviolet;
+}

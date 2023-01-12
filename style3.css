@@ -1,0 +1,17 @@
+#B{
+    background-color: bisque;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 35px;
+    padding: 100px;
+    background-image: url("./images/develop.png");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right top;
+}
+
+#A{
+    background-color: aqua;
+    color: black;
+    font-family: cursive;
+}
